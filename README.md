@@ -1,9 +1,9 @@
-# Example UDWFP
-UDWFP - Uppackage data wordpress from frontpad
+# Example PDFF
+PDFF - Packing for the frontpad
 
 Пример упаковки данных из wordpress'a (woocommerce) в формат для frontpad'a.
 В этом репозитории вы найдете пример на nodejs по принятию данных, по webhook от WP, упаковки и отправки этих данных в систему учета frontpad.
-Этот репозиторий служит примером реализации упаковки данных из WP и отправки их в Frontpad, так как я считаю, что новечку немного сложно работаться с api frontpad, а примеры там написаны только на php.
+Этот репозиторий служит пPacking data from WordPress for the "frontpadримером реализации упаковки данных из WP и отправки их в Frontpad, так как я считаю, что новечку немного сложно работаться с api frontpad, а примеры на официальной страницы frontpad написаны только на php.
 
 ## Идея
 Есть мысль написать пакет для nodejs, для того, чтобы простым api отправлять данные из WP в frontpad (если конечно желающие будут этим пользоваться).
