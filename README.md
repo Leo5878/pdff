@@ -1,7 +1,7 @@
 # Example PDFF
 PDFF - Packing Data for the Frontpad
 
-Пример упаковки данных из wordpress'a (woocommerce) в формат для frontpad'a.
+Пример упаковки данных из wordpress'a (woocommerce) в формат для frontpad'a на NodeJs.
 
 В этом репозитории вы найдете пример на nodejs по принятию данных, по webhook от WP, упаковки и отправки этих данных в систему учета frontpad.
 
